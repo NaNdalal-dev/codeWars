@@ -1,0 +1,1 @@
+better_than_average = lambda class_points,myscore:myscore>sum(class_points)/len(class_points)
